@@ -8,4 +8,4 @@ In addition, the repository also contains code that uses the GPT-3 model to summ
 
 The code in the repository is written in Python and uses PyTorch as the deep learning framework. The code is well-structured and easy to understand, making it accessible to both novice and experienced machine learning practitioners.
 
-Overall, the "Fake News Detector" repository on GitHub provides a robust and effective solution for detecting fake news using pre-trained language models.
+Overall, the "Fake News Detector"  provides a robust and effective solution for detecting fake news using pre-trained language models.
